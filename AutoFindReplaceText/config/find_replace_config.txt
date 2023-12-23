@@ -1,0 +1,4 @@
+OLDschema~NEWschema~E
+PROCEDURE: xyzProc~PROCEDURE: abcProc~E
+OLDschema~NEWschema~E
+OLDbody~NEWbody~E

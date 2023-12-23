@@ -1,0 +1,8 @@
+findReplaceConfigFile=C:\\workspace\\github\\tj-git-shared\\AutoFindReplaceText\\config\\find_replace_config.txt
+findReplaceConfigFileDelimiter=~
+inFilesFolder=C:\\workspace\\github\\tj-git-shared\\AutoFindReplaceText\\input\\
+outFilesFolder=C:\\workspace\\github\\tj-git-shared\\AutoFindReplaceText\\output\\
+findReplaceConfigFile=C:\\workspace\\github\\tj-git-shared\\AutoFindReplaceText\\config\\find_replace_config.txt
+sourceSchema=SOURCE_ORA_SCHEMA
+targetSchema=TARGET_PSQ_SCHEMA
+actionScopeFileType=.sql
